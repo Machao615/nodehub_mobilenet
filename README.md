@@ -299,4 +299,4 @@ A:
 
 ## Copyright Notice
 
-This project is developed based on the Horizon RDK platform and TROS.B framework, following the corresponding open source licenses. For specific source code copyright, please refer to the LICENSE file in the source repository.
+This project is developed based on the D-Robotics RDK platform and TROS.B framework, following the corresponding open source licenses. For specific source code copyright, please refer to the LICENSE file in the source repository.
